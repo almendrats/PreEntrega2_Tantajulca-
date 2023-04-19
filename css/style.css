@@ -1,4 +1,10 @@
-/* LOGO */
-@media (min-width:1024px){
-    
-}
+ .main{padding:10px}
+ h1,h3{text-align: center;}
+ h3{text-decoration: overline; font-size: medium;}
+ .formularioContacto{text-align: center;}
+ul{display:flex; flex-direction: row;}
+li{display:flex; text-decoration: none; padding:20px; justify-content: center;}
+.SM{font-size: small;}
+.copyright{font-size: 8px;}
+
+
